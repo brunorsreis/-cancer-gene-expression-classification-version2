@@ -39,13 +39,7 @@ These features allow researchers and analysts to better understand complex genom
 
 * 100
 
-**Pages**
 
-* 9 application pages including dashboards, reports, and visualizations. 
-
----
-
-# Core Pages
 
 The application currently includes the following major analytical views:
 
